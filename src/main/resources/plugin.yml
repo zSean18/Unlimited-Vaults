@@ -1,0 +1,4 @@
+name: Unlimited-Vaults
+version: '1.0'
+main: elevate.unlimitedVaults.UnlimitedVaults
+api-version: '1.21'
